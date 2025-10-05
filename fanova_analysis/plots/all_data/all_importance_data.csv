@@ -1,0 +1,23 @@
+Type,Name,Mean Importance
+Individual,act_func,0.12181446723038039
+Individual,depth,0.09675137759192937
+Individual,lr,0.1590374580117757
+Individual,n_epo,0.0064121709291091655
+Individual,n_sam,0.005189631234805954
+Individual,width,0.03457863841224368
+Pairwise,act_func×depth,0.04364661529367576
+Pairwise,act_func×lr,0.07698890760714155
+Pairwise,act_func×n_epo,0.015233833859178975
+Pairwise,act_func×n_sam,0.006234617023739518
+Pairwise,act_func×width,0.01728380449978361
+Pairwise,depth×lr,0.03989161111830262
+Pairwise,depth×n_epo,0.011301195202887455
+Pairwise,depth×n_sam,0.005207114231013646
+Pairwise,depth×width,0.014618555916146105
+Pairwise,lr×n_epo,0.010476311943950588
+Pairwise,lr×n_sam,0.00658521287775001
+Pairwise,lr×width,0.014298100389584253
+Pairwise,n_epo×n_sam,0.0039020413009499145
+Pairwise,n_epo×width,0.005284191053482316
+Pairwise,n_sam×width,0.003365010803332077
+Total,Sum of All Importances,0.6981008665311628

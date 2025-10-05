@@ -1,0 +1,2 @@
+The code in this folder should be run after installing functional ANOVA.
+https://automl.github.io/fanova/includeme.html
